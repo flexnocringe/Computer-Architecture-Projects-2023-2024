@@ -1,0 +1,10 @@
+﻿  KAND5P2.cpp
+C:\Users\Sanya_Bolt\source\repos\KAND5P2\KAND5P2\KAND5P2.cpp(11,16): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Sanya_Bolt\source\repos\KAND5P2\KAND5P2\KAND5P2.cpp(12,16): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Sanya_Bolt\source\repos\KAND5P2\KAND5P2\KAND5P2.cpp(13,16): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Sanya_Bolt\source\repos\KAND5P2\KAND5P2\KAND5P2.cpp(14,16): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Sanya_Bolt\source\repos\KAND5P2\KAND5P2\KAND5P2.cpp(17,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Sanya_Bolt\source\repos\KAND5P2\KAND5P2\KAND5P2.cpp(18,22): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Sanya_Bolt\source\repos\KAND5P2\KAND5P2\KAND5P2.cpp(19,22): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Sanya_Bolt\source\repos\KAND5P2\KAND5P2\KAND5P2.cpp(20,22): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  KAND5P2.vcxproj -> C:\Users\Sanya_Bolt\source\repos\KAND5P2\Debug\KAND5P2.exe
